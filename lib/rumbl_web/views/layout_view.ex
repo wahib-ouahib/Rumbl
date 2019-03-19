@@ -1,3 +1,3 @@
 defmodule RumblWeb.LayoutView do
-  use RumblWeb, :view
+  use RumblWeb, :view  
 end
