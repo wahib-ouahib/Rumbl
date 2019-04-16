@@ -1,4 +1,4 @@
-# Rumbl PHX
+# Rumbl PHOENIX
 
 
 To start your Phoenix server:
